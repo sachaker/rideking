@@ -1,6 +1,6 @@
 <img src="https://github.com/sachaker/rideking/blob/master/img/logo.png">
 
-Part of the Pioneer Hackathon
+Part of the [Pioneer Hackathon](https://pioneer.app/hackathon)
 ---
 >Disclaimer: previous concept work and seperate analyses were conducted about a year ago. Of course, none of the past analyses, data sources, code, or even same programming languages have been used for this project
 
