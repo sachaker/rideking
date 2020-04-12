@@ -2,7 +2,7 @@
 
 Part of the [Pioneer Hackathon](https://pioneer.app/hackathon)
 ---
->Disclaimer: previous concept work and seperate analyses were conducted about a year ago. Of course, none of the past analyses, data sources, code, or even same programming languages have been used for this project
+>Disclaimer: previous concept work and seperate analyses were conducted about a year ago. Of course, none of the past analyses, data sources, code, or even same programming languages have been used for this project. I have started this project from the ground up
 
 ## Updates
 - Successfully predicts pricing based on user's location (100k rideshare requests generated to determine estimates)
