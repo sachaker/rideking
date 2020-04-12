@@ -2,7 +2,7 @@
 
 Part of the Pioneer Hackathon
 ---
->Disclaimer: previous concept work and seperate analyses were conducted about a year ago. Of course, none of the past analyses, data sources, or even same programming languages have been used for this project
+>Disclaimer: previous concept work and seperate analyses were conducted about a year ago. Of course, none of the past analyses, data sources, code, or even same programming languages have been used for this project
 
 ## Updates
 - Successful predictions for pricing (100k times and distances generated to determine estimates)
