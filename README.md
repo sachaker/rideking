@@ -6,11 +6,7 @@ Part of the Pioneer Hackathon
 
 ### Concept
 
-<div class="row">
-  <div class="column">
-    <img src="https://github.com/sachaker/rideking/blob/master/img/concept1.png" width="40%">
-  </div>
-  <div class="column">
-    <img src="https://github.com/sachaker/rideking/blob/master/img/concept2.png" width="33%">
-  </div>
-</div>
+<p float="left">
+  <img src="https://github.com/sachaker/rideking/blob/master/img/concept1.png" width="40%">
+  <img src="https://github.com/sachaker/rideking/blob/master/img/concept2.png" width="35%">
+<\p>
