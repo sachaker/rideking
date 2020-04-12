@@ -8,5 +8,5 @@ Part of the Pioneer Hackathon
 
 <p float="left">
   <img src="https://github.com/sachaker/rideking/blob/master/img/concept1.png" width="40%">
-  <img src="https://github.com/sachaker/rideking/blob/master/img/concept2.png" width="35%">
+  <img src="https://github.com/sachaker/rideking/blob/master/img/concept2.png" width="34.5%">
 </p>
