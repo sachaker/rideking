@@ -1,4 +1,4 @@
-<img src="https://github.com/sachaker/rideking/blob/master/img/logo.png">
+<img src="https://github.com/sachaker/rideking/blob/master/img/logo.png" width="80%">
 
 
 # Ride King
@@ -8,6 +8,6 @@ Part of the Pioneer Hackathon
 
 ### Concept
 
-<img src="https://github.com/sachaker/rideking/blob/master/img/concept1.png">
+<img src="https://github.com/sachaker/rideking/blob/master/img/concept1.png" width="50%">
 
-<img src="https://github.com/sachaker/rideking/blob/master/img/concept2.png">
+<img src="https://github.com/sachaker/rideking/blob/master/img/concept2.png" width="50%">
